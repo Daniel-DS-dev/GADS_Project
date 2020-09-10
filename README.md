@@ -94,7 +94,7 @@
 
 
 # -------------------------------------------------------------------------
-## I translated 2 labs from console instructions to 100% command line instructions. 
+## I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
 ## The labs are: 
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
 ### 2. Google Cloud Fundamentals: Getting Started with Compute Engine
