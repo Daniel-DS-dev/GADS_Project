@@ -1,4 +1,5 @@
 # Popoola Daniel's GADS Practise Project
+# ------------------------------------------------------------
 
 
 ## I completed 11 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the 
