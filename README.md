@@ -92,3 +92,10 @@
     * Loading Data from Google Cloud Storage into Cloud SQL tables
     * Generating housing recommendations with Machine Learning using Cloud Dataproc
 
+
+# -------------------------------------------------------------------------
+## I translated 2 labs from console instructions to 100% command line instructions. 
+## The labs are: 
+### 1. Google Cloud Fundamentals: Getting Started with App Engine
+### 2. Google Cloud Fundamentals: Getting Started with Compute Engine
+
