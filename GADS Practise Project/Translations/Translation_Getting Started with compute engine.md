@@ -1,15 +1,15 @@
 # LAB: Google Cloud Fundamentals: Getting Started with Compute Engine
 
 ## Objectives
-* Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
+1. Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
 
-* Create a Compute Engine virtual machine using the gcloud command-line interface.
+2. Create a Compute Engine virtual machine using the gcloud command-line interface.
 
-* Connect between the two instances.
+3. Connect between the two instances.
 
 
 
-1. Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console
+### 1. Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console
 
 #### Steps
     gcloud compute instances create "my-vm-1" \
@@ -26,7 +26,7 @@
 * So basically when you create an instance and you want to allow HTTP traffic, firstly you create a tag(tagname = http) for the instance like we did on the 3rd to the last line above, and then a firewall rule is created to target any instance with that tag
 
 
-2. Create a virtual machine using the gcloud command line
+### 2. Create a virtual machine using the gcloud command line
 #### Steps
 * To list all zones associated with the us-central1 region, we use 
 
@@ -44,7 +44,7 @@ gcloud compute instances create "my-vm-1" \
 --subnet "default" 
 
 
-3. Connect between VM instances
+### 3. Connect between VM instances
 #### Steps
 
     1. Use the ping command to confirm that my-vm-2 can reach my-vm-1 over the network:

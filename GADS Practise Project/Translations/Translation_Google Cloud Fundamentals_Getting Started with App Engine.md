@@ -1,16 +1,16 @@
 # LAB:Google Cloud Fundamentals: Getting Started with App Engine
 
-### Objectives
-* Initialize App Engine.
+## Objectives
+1. Initialize App Engine.
 
-* Preview an App Engine application running locally in Cloud Shell.
+2. Preview an App Engine application running locally in Cloud Shell.
 
-* Deploy an App Engine application, so that others can reach it.
+3.  Deploy an App Engine application, so that others can reach it.
 
-* Disable an App Engine application, when you no longer want it to be visible.
+4. Disable an App Engine application, when you no longer want it to be visible.
 
 
-1. Initialize App Engine
+### 1. Initialize App Engine
 
     * Initialize your app engine with your project name and set the region where $DEVSHELL_PROJECT_ID is your project ID
 
@@ -29,7 +29,7 @@
 
         cd python-docs-samples/appengine/standard_python3/hello_world
 
-2. Preview an App Engine application running locally in Cloud Shell (Hello world App)
+### 2. Preview an App Engine application running locally in Cloud Shell (Hello world App)
 * We will run the Hello World App in a local, virtual environment in Cloud shell.
 
     * Download and update the packages list
@@ -58,7 +58,7 @@
 
         python main.py
 
-3. Deploy an App Engine application, so that others can reach it
+### 3. Deploy an App Engine application, so that others can reach it
 
     * Navigate to the source directory:
 
@@ -76,10 +76,10 @@
 
     * And that is it, you have deployed your app engine.
 
-4. Disable the application
+### 4. Disable the application
 
     * To disable the application go to cloud console,  click app engine  then settings then click disable application.
 
-    
+
 
     
