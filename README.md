@@ -4,7 +4,7 @@
 ## I completed 11 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the folder named "Screenshots".
 ## The labs and there objectives are:
 
-### From the Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020):
+## From the Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020):
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
   #### Objectives:
     * Initialize App Engine.
@@ -44,14 +44,14 @@
     * Create VPN tunnels between the gateways
     * Verify VPN connectivity
 
-### From the Phase 1 Deepdive Channel:
+## From the Phase 1 Deepdive Channel:
 ### 7. AK8S-04 Creating a GKE Cluster via Cloud Shell
   #### Objectives:
     * Use kubectl to build and manipulate GKE clusters
     * Use kubectl and configuration files to deploy Pods
     * Use Container Registry to store and deploy containers
 
-### From the Phase 2 Maintrack Channel:
+## From the Phase 2 Maintrack Channel:
 ### 8. Classify Images with Pre-built ML Models using Cloud Vision API and AutoML
   #### Objectives:
     *Upload a labeled dataset to Google Cloud Storage and connect it to AutoML Vision with a CSV label file.
@@ -60,7 +60,8 @@
   
 ### 9. Create a Streaming Data Pipeline for a Real-Time Dashboard with Cloud Dataflow
   #### Objectives:
-    * You will build a streaming data pipeline to capture taxi revenue, passenger count, ride status, and much more and visualize the results in a management dashboard.
+    * You will build a streaming data pipeline to capture taxi revenue, passenger count, ride status, and much more and 
+    visualize the results in a management dashboard.
     * Create a Cloud Pub/Sub Topic
     * Create a BigQuery dataset
     * Create a Cloud Storage Bucket
