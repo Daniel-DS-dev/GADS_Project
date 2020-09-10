@@ -1,11 +1,11 @@
 # Popoola Daniel's GADS Practise Project
-# ------------------------------------------------------------
 
 
 ## I completed 11 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the 
 ## folder named "GADS Practise Project/Screenshots".
 # 
 
+# -------------------------------------------------------------------------
 ## The labs and there objectives are:
 
 ## From the Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020):
