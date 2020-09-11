@@ -1,12 +1,14 @@
 # Popoola Daniel's GADS Practise Project
+# Google Cloud Practise project
+## The cloud challenge is divided into 2 parts:
 
-
-## I completed 11 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the 
-## folder named "GADS Practise Project/Screenshots".
+## For the first challenge, I completed 12 Hands-on labs on Qwiklabs, I have uploaded proof of completion of each and saved them in the folder "GADS Practise Project/Screenshots".
 # 
+# ------------------------------------------------------------------------------
+## For the second challenge, I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
 
-# -------------------------------------------------------------------------
-## The labs and there objectives are:
+# ------------------------------------------------------------------------------
+## The labs I completed and their objectives are:
 
 ## From the Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020):
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
@@ -92,10 +94,17 @@
     * Loading Data from Google Cloud Storage into Cloud SQL tables
     * Generating housing recommendations with Machine Learning using Cloud Dataproc
 
+## From the Phase 2 Deepdive Channel:
+### 12. Running Apache Spark jobs on Cloud Dataproc
+  #### Objectives
+    * Migrate existing Spark jobs to Cloud Dataproc
+    * Modify Spark jobs to use Cloud Storage instead of HDFS
+    * Optimize Spark jobs to run on Job specific clusters
 
-# -------------------------------------------------------------------------
-## I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
-## The labs are: 
+
+# 
+# ------------------------------------------------------------------------------
+## The labs I translated to 100% command line instructions are: 
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
 ### 2. Google Cloud Fundamentals: Getting Started with Compute Engine
 
