@@ -4,7 +4,7 @@
 
 ## For the first challenge, I completed 12 Hands-on labs on Qwiklabs, I have uploaded proof of completion of each and saved them in the folder "GADS Practise Project/Screenshots".
 # 
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------
 ## For the second challenge, I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
 
 # ------------------------------------------------------------------------------
