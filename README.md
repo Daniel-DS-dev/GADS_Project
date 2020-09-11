@@ -4,7 +4,7 @@
 ## I completed 12 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the 
 ## folder named "GADS Practise Project/Screenshots".
 # 
-# ----------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 ## I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
 ## The labs I translated to 100% command line instructions are: 
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
