@@ -1,8 +1,7 @@
 # Popoola Daniel's GADS Practise Project
 
 
-## I completed 12 Hands-on labs on Qwiklabs, I have uploaded proofs of completion through screenshot of emails received and I have saved them in the 
-## folder named "GADS Practise Project/Screenshots".
+## I completed 12 Hands-on labs on Qwiklabs, I have uploaded proof of completion of each and saved them in the folder "GADS Practise Project/Screenshots".
 # 
 # ------------------------------------------------------------------------------
 ## I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
