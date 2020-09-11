@@ -1,15 +1,13 @@
 # Popoola Daniel's GADS Practise Project
+# Google Cloud Practise project
+## The cloud challenge is divided into 2 parts:
 
-
-## I completed 12 Hands-on labs on Qwiklabs, I have uploaded proof of completion of each and saved them in the folder "GADS Practise Project/Screenshots".
+## For the first challenge, I completed 12 Hands-on labs on Qwiklabs, I have uploaded proof of completion of each and saved them in the folder "GADS Practise Project/Screenshots".
 # 
 # ------------------------------------------------------------------------------
-## I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
-## The labs I translated to 100% command line instructions are: 
-### 1. Google Cloud Fundamentals: Getting Started with App Engine
-### 2. Google Cloud Fundamentals: Getting Started with Compute Engine
+## For the second challenge, I translated 2 labs from console instructions to 100% command line instructions, and I saved them inside the folder "GADS Practise Project/Translations" 
 
-# -------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 ## The labs I completed and their objectives are:
 
 ## From the Associate Cloud Engineer: Learning Phase 1 Main Track Channel (2020):
@@ -105,7 +103,7 @@
 
 
 # 
-# ----------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 ## The labs I translated to 100% command line instructions are: 
 ### 1. Google Cloud Fundamentals: Getting Started with App Engine
 ### 2. Google Cloud Fundamentals: Getting Started with Compute Engine
